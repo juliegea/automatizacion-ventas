@@ -58,3 +58,9 @@ reportes.py          Exportación a Excel, PDF y gráficos
 
 Leer archivos `.xlsx` de entrada, configurar reglas por archivo YAML, enviar el reporte por
 mail, y programar la ejecución diaria.
+
+**Ejemplo del reporte generado:**
+
+<img width="520" alt="Reporte de ventas en PDF con indicadores, gráficos y calidad de datos" src="https://github.com/user-attachments/assets/116875f5-5138-4bdf-940a-56e2af0a723a" />
+
+
